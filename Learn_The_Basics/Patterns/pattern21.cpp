@@ -40,4 +40,5 @@ int main(){
     cin >> n;
     obj.pattern21(n);
     return 0;
+    
 }
